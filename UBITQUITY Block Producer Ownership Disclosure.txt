@@ -1,0 +1,5 @@
+UBITQUITY Block Producer Ownership Disclosure
+
+ubqtbp (mainnet) and ubqtbptn (testnet) are wholly owned by UBITQUITY, LLC. Our funding comes exclusively from individual accredited buyers, totaling USD $937,230. We have not accepted investments from Venture Capital (VC) firms or Family Offices.
+
+Our operations and governance remain free from external influence, with the sole exceptions being arbitration rulings and adherence to blockchain community guidelines.
