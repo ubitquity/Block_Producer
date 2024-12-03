@@ -1,0 +1,11 @@
+Block Producer Code of Conduct
+
+Mission:
+Blockchain technology is increasingly inspiring people worldwide. Our mission is to expand the global adoption of cryptocurrency and blockchain solutions, enriching lives and transforming industries.
+
+Pledges:
+
+We commit to being a reliable block producer, operating with unwavering integrity.
+We dedicate a portion of our block rewards to supporting blockchain ecosystems and funding dApp development.
+We adhere to community guidelines and comply fully with all arbitration rules and mechanisms.
+Transparency and openness in our financial activities are the core of our values.
